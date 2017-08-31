@@ -1,0 +1,120 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2016%2F11%2F29%2F16%2FLogo-199302_462_163033574_388621399.jpg" pltv-name="IPTV Filmes - Rodrigo" pltv-description=Lista de Filmes Top pltv-cover="http://1news.com.br/images/noticias/1fa4e7eea60136f290bc9dc4975fadba_700x430.jpg" pltv-author="RODRIGO" pltv-site="XXX SITE CASO HOUVER XXX" pltv-email="XXX E-MAIL XXX"
+
+
+################## FILMES ########################
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000229139814-uft25a-t500x500.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", MULHER MARAVILHA 
+http://s.mmfilmes.com/mm/filmes/maravilha-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615VgzVS2sL._SS500.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", BAYWATCH 
+http://s.mmfilmes.com/mm/filmes/baywatch-dub-720p.mp4
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/jogo-sombras-de-mordor-xbox360-dvd-filme-senhor-dos-aneis-D_NQ_NP_388501-MLB20344669238_072015-O.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", SENHOR DOS ANEIS - 1
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASCEDDANL.mp4
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/jogo-sombras-de-mordor-xbox360-dvd-filme-senhor-dos-aneis-D_NQ_NP_388501-MLB20344669238_072015-O.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", SENHOR DOS ANEIS - 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSASDSTRS.mp4
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/jogo-sombras-de-mordor-xbox360-dvd-filme-senhor-dos-aneis-D_NQ_NP_388501-MLB20344669238_072015-O.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", SENHOR DOS ANEIS - 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OSNHRDSANSORTNDREI.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-OEpASUniZjE/Tbtl4CmznqI/AAAAAAAAAA8/oaV4F69Tkd8/w1200-h630-p-k-no-nu/PoTC_Front.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", PIRATAS DO CARIBE - 1
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB01.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-OEpASUniZjE/Tbtl4CmznqI/AAAAAAAAAA8/oaV4F69Tkd8/w1200-h630-p-k-no-nu/PoTC_Front.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", PIRATAS DO CARIBE - 2
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB02.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-OEpASUniZjE/Tbtl4CmznqI/AAAAAAAAAA8/oaV4F69Tkd8/w1200-h630-p-k-no-nu/PoTC_Front.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", PIRATAS DO CARIBE - 3
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB03.mp4
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-OEpASUniZjE/Tbtl4CmznqI/AAAAAAAAAA8/oaV4F69Tkd8/w1200-h630-p-k-no-nu/PoTC_Front.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", PIRATAS DO CARIBE - 4
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/PRTSDCRB04.mp4
+
+#EXTINF:-1 tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_fc1b32178db46394c33418461a713b7cc44340cb.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", SNIPER AMERICANO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/SNPRAMRCN.mp4
+
+#EXTINF:-1 tvg-logo="http://fnac.vteximg.com.br/arquivos/ids/313433-500-500/393-704259-0-5-o-regresso-dvd.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", O REGRESSO
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/ORGRSODUB.mp4
+
+#EXTINF:-1 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61oe51hDGYL._SS500.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", KING ARTHUR
+http://s.mmfilmes.com/mm/filmes/reiarthur-dub-1080p.mp4
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sSLSqeDELeg/WOX919PmaXI/AAAAAAAB2xQ/5e5ptSJrpTEOxy1UZAKrvgRGAxmmlT2NQCLcB/s500-c/boss_baby_xlg.jpg" group-title="FILMES" pltv-subgroup="AÇÃO", PODEROSO CHEFINHO
+http://s.mmfilmes.com/mm/filmes/PODEROSO%20CHEFINHO%20-%20LEG%20-%20720P.mp4
+
+################### ANIMES #####################
+
+Dragon Ball Super
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  1
+http://assistir.querofilmehd.com/dbz-super/dublado/01.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  2
+http://assistir.querofilmehd.com/dbz-super/dublado/02.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  3
+http://assistir.querofilmehd.com/dbz-super/dublado/03.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  4
+http://assistir.querofilmehd.com/dbz-super/dublado/04.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  5
+http://assistir.querofilmehd.com/dbz-super/dublado/05.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  6
+http://assistir.querofilmehd.com/dbz-super/dublado/06.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  7
+http://assistir.querofilmehd.com/dbz-super/dublado/07.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  8
+http://assistir.querofilmehd.com/dbz-super/dublado/08.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  9
+http://assistir.querofilmehd.com/dbz-super/dublado/09.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  10
+https://r2---sn-jucj-0qpz.googlevideo.com/videoplayback?mn=sn-jucj-0qpz&mm=31&gir=yes&id=o-AESegZrYMQ4NONeQto1dbD6uQknnRVos1544kQQySezB&initcwndbps=792500&beids=%5B9466594%5D&clen=23576293&signature=4FBD6A9DED53606094B80C66A4AFC938CDB5EF34.76E6F3B3B219E1C6CD78375EBDCEB8F1C17CED92&ip=189.41.135.19&mv=m&mt=1504202393&ms=au&keepalive=yes&lmt=1503979725322812&dur=61.133&key=yt6&mime=video%2Fmp4&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Crequiressl%2Csource%2Cexpire&expire=1504224075&requiressl=yes&itag=137&pl=21&ei=6k6oWfrkOoTgwwTktKCYDg&source=youtube&ipbits=0
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  11
+http://assistir.querofilmehd.com/dbz-super/dublado/11.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  12
+http://assistir.querofilmehd.com/dbz-super/dublado/12.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  13
+http://assistir.querofilmehd.com/dbz-super/dublado/13.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  14
+http://assistir.querofilmehd.com/dbz-super/dublado/14.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  15
+http://149.56.31.94/animes/D/dragon-ball-super-dublado/15.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  16
+http://149.56.31.94/animes/D/dragon-ball-super-dublado/16.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  17
+http://149.56.31.94/animes/D/dragon-ball-super-dublado/17.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/gvXgLEq5rqHk8n1wntbEiYLt7ZL.jpg" group-title="ANIMES"  pltv-subgroup="Dragon Ball Super",Episódio  18
+http://149.56.31.94/animes/D/dragon-ball-super-dublado/18.mp4
+
+Os Simpsons
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 15
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 16
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 17
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 18
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 19
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 20
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 21
+
+#EXTINF:-1 tvg-logo="http://www.bigdvdsale.com/image/cache/data/The%20Simpsons/The-Simpsons-Season-27-333-500x500.jpg" group-title="ANIMES"  pltv-subgroup="Os Simpsons",Temp. 27 - Epi. 22
